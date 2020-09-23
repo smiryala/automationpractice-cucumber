@@ -1,0 +1,20 @@
+{
+	"aeroDetails": [
+		{
+			"aircraftTailNumber": "987456",
+			"aircraftMake": "WACO",
+			"aircraftModel": "A320-232",
+			"aircraftSerialno": "53682618",
+			"aircraftYear": "2011"
+
+		}
+	],
+	
+	"configPageDetails": [
+	{
+	    "Aircraft": "00065576lsft-dev-2.aviallinc.com",
+	    "Avionics": "Electronic Chart Services.Avidyne.Entegra 2.Avionics",
+	    "Coverages": "Electronic Chart Services.Africa.JV MFD IFR.Coverage"
+	}
+	]
+} 

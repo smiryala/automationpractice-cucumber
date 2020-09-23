@@ -1,0 +1,26 @@
+{
+	"creditcardvisa": [
+		{
+			"name": "Test Card",
+			"number": "4111111111111111",
+			"month": "5",
+			"year": "2020",
+			"cvv": "123"
+		}
+	],
+	
+	"erromessage": [
+		{
+			"name": "Test Card",
+			"number": "4111111111111111",
+			"expdate": "5",
+			"cvv": "123"
+		}
+	],
+
+	"accountpayment": [
+		{
+			"poNumber": "898654435"
+		}
+	]
+} 

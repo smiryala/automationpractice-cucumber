@@ -1,0 +1,19 @@
+{
+	"validuser": [{
+			"username": "personal.auto@aviall.com",
+			"username2": "auto.company@aviall.com",
+			"username3": "auto.epersonal@aviall.com",
+			"username4": "auto.ecompany@aviall.com",
+			"username5": "automation5@aviall.com",
+			"ConfigUser": "autobgsuser1@aviall.com",
+			"emailValidation": "auto.ecompany@aviall.com",
+		    "password": "P@ssword1",
+			"configpassword": "Accenture@123"
+			
+		}],
+			
+	"invaliduser": [{
+			"username": "invaliduser@aviall.com",
+			"password": "Test123",
+			"errormsg": "Your username or password was incorrect."}]		
+} 

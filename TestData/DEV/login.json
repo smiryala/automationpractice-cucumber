@@ -1,0 +1,21 @@
+{
+	"validuser": [{
+			"username": "charu.rupesh@aviall.com",
+			"username2": "auto.company@aviall.com",
+			"username3": "auto.epersonal@aviall.com",
+			"username4": "auto.ecompany@aviall.com",
+			"username5": "automation5@aviall.com",
+			"ConfigUser": "autobgsuser1@aviall.com",
+			"emailValidation": "auto.ecompany@aviall.com",
+			"personal": "Perftest_QA11@aviall.com",
+			"epersonal": "Perftest_QA10@aviall.com",
+			"company": "charu.rupesh@aviall.com",
+			"ecompany": "Perftest_QA9@aviall.com",
+		    "password": "P@ssword1",
+			"configpassword": "Accenture@123"
+			}],
+	"invaliduser": [{
+			"username": "invaliduser@aviall.com",
+			"password": "Test123",
+			"errormsg": "Your username or password was incorrect."}]		
+} 

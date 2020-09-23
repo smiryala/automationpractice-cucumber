@@ -1,0 +1,61 @@
+{
+	"basicaddress": [
+		{
+			"country": "United States",
+			"firstName": "Rob",
+			"lastName": "John",
+			"addressLine1": "2 N State St",
+			"addressLine2Optional": "Park Ave",
+			"towncity": "Chicago",
+			"state": "Illinois",
+			"zipPostCode": "60602",
+			"countryCode": "1",
+			"areaCode": "773",
+			"phoneNumber": "342345",
+			"extension": "6543"
+		}
+	],
+	
+	"editaddress": [
+		{
+			"country": "United States",
+			"firstName": "Abrahim",
+			"lastName": "Mick",
+			"addressLine1": "2 N State St",
+			"addressLine2Optional": "Park Ave Street",
+			"towncity": "Chicago",
+			"state": "Illinois",
+			"zipPostCode": "60602",
+			"countryCode": "1",
+			"areaCode": "773",
+			"phoneNumber": "342345",
+			"extension": "9865"
+		}
+	],
+	"errormessages": [
+		{
+			"country": "Please select country",
+			"firstName": "Please enter first name",
+			"lastName": "Please enter last name",
+			"addressLine1": "Please enter address",
+			"towncity": "Please enter city",
+			"state": "Please select state",
+			"zipPostCode": "Please enter a valid post code",
+			"countryCode": "Please enter countrycode",
+			"areaCode": "Please enter areacode",
+			"phoneNumber": "Please enter phone number"
+		}
+	],
+		
+	"shippingdetails": [
+		{
+			"shippingMethod": "0"
+		}
+	],
+	"paymentbillingaddress": [
+		{
+			"accountpaymentPOnumber": "898654435",
+			"shippingMethod": "UPS-Next Day Air- -"
+		}
+	]
+} 

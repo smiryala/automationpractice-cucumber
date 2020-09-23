@@ -1,0 +1,44 @@
+{
+	"simpleProduct": [
+		{
+			"hardgoodProduct": "10001306",
+			"onlinelearningProduct": "10025777",
+			"simpleProduct": "10001035",
+			"MediaProduct": "10333574",
+			"successMsg": "search results found"
+		}
+	],
+	"configProduct": [
+		{
+			"searchProduct": "10361965",
+			"searchProduct1": "10361965",
+			"searchProduct2": "10011506",
+			"searchProduct3": "10018400",
+			
+			"successMsg": "search results found"
+		}
+	],
+	"simpleSearch": [
+		{
+		    "noResult": "iphone",
+			"searchProduct": "100",
+			"successMsg": "search results found"
+		}
+	],
+	"searchSystemTC": [
+		{
+			"searchByValue": "10001035",
+			"searchByName1": "Garmin",
+			"searchByName2": "Binder",
+			"Quantity": "101",
+			"Quantity1": "0"
+		}
+	],
+	"Sorting": [
+		{
+			"AscOrder": "NAME(ASCENDING)",
+			"DesOrder": "NAME(DESCENDING)",
+		    "relv"  : "RELEVANCE"
+		}
+	]
+} 

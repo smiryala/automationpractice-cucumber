@@ -1,0 +1,49 @@
+{
+	"companyregister": [
+		{
+			"createCompanyAccountURL": "https://linf-dev-1.aviallinc.com:7443/process-engine/rt/CreateCustomerAsOrgDevAgent",
+			"companyRegion": "United States",
+			"companyname": "AVIALL",
+			"companyPostalCode": "500036",
+			"companyCountryCode": "0091",
+			"companyAreaCode": "0022",
+			"companyPhoneNumber": "0567432876",
+			"companyExtension": "5555"
+			
+		
+}
+	],
+	
+	"personalregister": [
+	{
+	        "createPersonalAccountURL": "https://linf-dev-1.aviallinc.com:7443/process-engine/rt/CreateCustomerAsPersonDevAgent",
+			"personalRegion": "United States",
+			"personalname": "AVIALL",
+			"personalLastName": "BGS",
+		    "personalPostalCode": "500036",
+			"personalCountryCode": "0091",
+			"personalAreaCode": "0022",
+			"personalPhoneNumber": "0567432876",
+			"personalExtension": "5555"
+	}],
+	
+	
+	
+  "CompanyloginInformation": [
+		{
+			"emailAddress": "BGSAutomation@Aviall.com",
+			"confimredPassword": "Accenture@123",
+			"Password" :"Accenture@123"
+	}
+	],
+    "PersonalloginInformation": [
+		{
+			"emailAddress": "BGSAutomation@Aviall.com",
+			"confimredPassword": "Accenture@123",
+			"Password" :"Accenture@123"
+
+		}
+	]
+} 
+
+

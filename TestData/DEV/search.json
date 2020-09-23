@@ -1,0 +1,44 @@
+{
+	"simpleProduct": [
+		{
+			"hardgoodProduct": "10001084",
+			"onlinelearningProduct": "10025777",
+			"simpleProduct": "10001085",
+			"MediaProduct": "10333574",
+			"successMsg": "search results found"
+		}
+	],
+	"configProduct": [
+		{
+			"searchProduct": "10026003",
+			"searchProduct1": "10026003",
+			"searchProduct2": "10011506",
+			"searchProduct3": "10025975",
+			"searchProduct4":"10361965",
+			"searchProduct5": "10018400",
+			
+			"successMsg": "search results found"
+		}
+	],
+	"simpleSearch": [
+		{
+			"searchProduct": "100",
+			"successMsg": "search results found"
+		}
+	],
+	"searchSystemTC": [
+		{
+			"searchByValue": "10001035",
+			"searchByName1": "Garmin",
+			"searchByName2": "Binder",
+			"Quantity": "101",
+			"Quantity1": "0"
+		}
+	],
+	"Sorting": [
+		{
+			"AscOrder": "NAME(ASCENDING)",
+			"DesOrder": "NAME(DESCENDING)"
+		}
+	]
+} 
